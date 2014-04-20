@@ -1193,6 +1193,7 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
     {"qbc.io", "dnsseed.qbc.io"},
+    {"54.86.39.92", "54.86.39.92"},
     {NULL, NULL}
 };
 
