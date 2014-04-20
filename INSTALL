@@ -1,0 +1,9 @@
+Building Quebecoin
+
+See doc/readme-qt.rst for instructions on building Quebecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Quebecoin.
+
+See doc/build-*.txt for instructions on building québecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Quebecoin.
